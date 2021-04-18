@@ -6,7 +6,7 @@ import java.lang.reflect.Field;
  */
 public class Test {
     public static void main(String[] args) throws IllegalAccessException {
-        Person person =new Person("zsf3322211",33);
+        Person person =new Person("aabbcc",33);
         check(person);
 
     }
